@@ -1,3 +1,3 @@
-# TacoBellDrop
+# Lethal Company Mods
 Lethal Company Mod
-This is a Lethal Company Mod that replaces the bell dropping sound with the taco bell ding
+This is all of my different Lethal Company mods
